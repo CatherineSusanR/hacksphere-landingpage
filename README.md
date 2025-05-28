@@ -2,7 +2,7 @@
 (Just created one again to randomly add to my profile)
 ![Tech Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-A sleek, neon-themed React landing page for HackSphere 2025 ,an online event to Code, Create, and Conquer!
+A sleek, neon-themed React landing page for HackSphere 2025 , an online event to Code, Create, and Conquer!
 
 ---
 
